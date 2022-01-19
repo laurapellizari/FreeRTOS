@@ -1,0 +1,5 @@
+﻿  main_blinky.c
+D:\UNIFEI\7_semestre\ECOS13\lab05\FreeRTOSv202104.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(203,36): warning C4244: 'função': conversão de 'int' para 'char', possível perda de dados
+D:\UNIFEI\7_semestre\ECOS13\lab05\FreeRTOSv202104.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(198,19): warning C4100: 'param': parâmetro formal não referenciado
+D:\UNIFEI\7_semestre\ECOS13\lab05\FreeRTOSv202104.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(217,18): warning C4100: 'param': parâmetro formal não referenciado
+  WIN32.vcxproj -> D:\UNIFEI\7_semestre\ECOS13\lab05\FreeRTOSv202104.00\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe

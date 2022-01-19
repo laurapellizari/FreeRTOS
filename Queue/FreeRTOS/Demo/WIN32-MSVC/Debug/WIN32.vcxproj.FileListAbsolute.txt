@@ -1,0 +1,1 @@
+D:\UNIFEI\7_semestre\ECOS13\lab06\FreeRTOSv202104.00\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe

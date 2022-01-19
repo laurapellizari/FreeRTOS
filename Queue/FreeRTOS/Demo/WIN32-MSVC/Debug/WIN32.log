@@ -1,0 +1,7 @@
+﻿  main_blinky.c
+D:\UNIFEI\7_semestre\ECOS13\lab06\FreeRTOSv202104.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(213,51): warning C4244: '=': conversão de 'unsigned int' para 'char', possível perda de dados
+D:\UNIFEI\7_semestre\ECOS13\lab06\FreeRTOSv202104.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(204,19): warning C4100: 'param': parâmetro formal não referenciado
+D:\UNIFEI\7_semestre\ECOS13\lab06\FreeRTOSv202104.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(231,20): warning C4100: 'param': parâmetro formal não referenciado
+D:\UNIFEI\7_semestre\ECOS13\lab06\FreeRTOSv202104.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(254,20): warning C4100: 'param': parâmetro formal não referenciado
+D:\UNIFEI\7_semestre\ECOS13\lab06\FreeRTOSv202104.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(273,19): warning C4189: 'xTimerPeriod': variável local é inicializada mas não referenciada
+  WIN32.vcxproj -> D:\UNIFEI\7_semestre\ECOS13\lab06\FreeRTOSv202104.00\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe

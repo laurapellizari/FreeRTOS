@@ -1,0 +1,6 @@
+ build/default/production/serial.d  \
+ build/default/production/serial.p1:  \
+ serial.c  \
+io.h  \
+serial.h  \
+bits.h 
